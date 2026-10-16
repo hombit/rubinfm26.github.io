@@ -20,7 +20,7 @@ long-lunch constraint was CIERA-specific and is gone. The site follows the lates
 
 - `index.html` — hero, purpose, six goals, important dates
 - `program.html` — at-a-glance cards + three daily schedule tables (draft) + program notes
-- `participants.html` — application box, SOC cards, LINCC partner cards, empty participant grid
+- `participants.html` — registration box (Google Form link, fees: $0 grad students/postdocs, $100 staff scientists/faculty), SOC cards, LINCC partner cards, empty participant grid
 - `travel.html` — SkAI venue + map + photo, getting to Chicago, lodging stub, about Chicago
 - `css/styles.css` — single stylesheet; winter palette: steel blue `#3b82c4`, ice blue `#8fd3f4`, silver `#dbe7f3` on deep navy `#111a2e`
 - `assets/images/` — sponsor logos, `rubin-snow.jpg` (hero; 1600×1066 frame `pasted-movie-5690.png` from GN's Keynote `Presentations/GenSci/Narayan_AoT_Pygmalion_Sep2026.key`: Rubin under construction in snow, blue sky. Credit on the page reads "Rubin Observatory/NOIRLab" `[INFERRED — verify: GN to confirm the source video/photo and exact credit; not found in the NOIRLab or rubinobservatory.org galleries on 2026-09-29]`), `skai.jpg` (purpose section and travel venue card; Hancock Center exterior, credit "Barry Butler Photography", copied from rubinalerts26 where it carried the same credit). Credits are printed on the page; keep them if the images stay. `northwestern-winter.jpg` was removed with the venue change.
@@ -32,9 +32,9 @@ goes into all four files.
 
 | Item | Where | Status |
 |---|---|---|
-| Application form URL | `participants.html` registration box | disabled button, `href="#"` |
-| Applications open date | `index.html` Important Dates | badge reads `Date TBA`; deadline is set (Fri Dec 4, 2026, the Friday before the meeting, per GN 2026-09-29) |
-| Hotel block | `travel.html` Lodging | "coming soon" box (Magnificent Mile, near SkAI); replace with the hotel card pattern from rubinalerts26 `travel.html` |
+| Registration form URL | `participants.html` registration box, `index.html` Important Dates | done: https://forms.gle/PwJiMqTZfc9sGnx4A (Google Form) |
+| Registration dates | `index.html` Important Dates | open now; deadline Nov 13, 2026; travel funding notifications by ~Nov 5 |
+| Hotel block | `travel.html` Lodging | Westin Downtown Chicago (across from venue) block arranged; booking link still to come; replace with the hotel card pattern from rubinalerts26 `travel.html` |
 | Daily program | `program.html` | 3-day compression of the proposal's 5-day agenda; unconfirmed with Adam / Ayan; labelled "Draft" on the page |
 | Speakers | `program.html` Day 1 primer | `TBD` |
 
